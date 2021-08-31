@@ -1,13 +1,15 @@
 import GlobalStyle from "./components/layout/GlobalStyle";
 import Header from "./components/layout/Header";
-import MainSection from "./components/sections/main/index";
+import HowItWorks from "./components/sections/how-it-works";
+import MainContent from "./components/sections/main/index";
 
 function App() {
   return (
     <div>
       <GlobalStyle />
       <Header />
-      <MainSection />
+      <MainContent />
+      <HowItWorks />
     </div>
   );
 }
