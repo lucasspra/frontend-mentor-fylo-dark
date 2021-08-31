@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/frontend-mentor-fylo-dark/static/js/main.8816cc07.chunk.js",
+    "main.js.map": "/frontend-mentor-fylo-dark/static/js/main.8816cc07.chunk.js.map",
+    "runtime-main.js": "/frontend-mentor-fylo-dark/static/js/runtime-main.7f43e543.js",
+    "runtime-main.js.map": "/frontend-mentor-fylo-dark/static/js/runtime-main.7f43e543.js.map",
+    "static/js/2.726212af.chunk.js": "/frontend-mentor-fylo-dark/static/js/2.726212af.chunk.js",
+    "static/js/2.726212af.chunk.js.map": "/frontend-mentor-fylo-dark/static/js/2.726212af.chunk.js.map",
+    "index.html": "/frontend-mentor-fylo-dark/index.html",
+    "static/js/2.726212af.chunk.js.LICENSE.txt": "/frontend-mentor-fylo-dark/static/js/2.726212af.chunk.js.LICENSE.txt",
+    "static/media/facebook.130f6e38.svg": "/frontend-mentor-fylo-dark/static/media/facebook.130f6e38.svg",
+    "static/media/icon-access-anywhere.2856c661.svg": "/frontend-mentor-fylo-dark/static/media/icon-access-anywhere.2856c661.svg",
+    "static/media/icon-any-file.fc9b91ba.svg": "/frontend-mentor-fylo-dark/static/media/icon-any-file.fc9b91ba.svg",
+    "static/media/icon-arrow.2491a46a.svg": "/frontend-mentor-fylo-dark/static/media/icon-arrow.2491a46a.svg",
+    "static/media/icon-collaboration.6c80c0a4.svg": "/frontend-mentor-fylo-dark/static/media/icon-collaboration.6c80c0a4.svg",
+    "static/media/icon-email.201ea9e2.svg": "/frontend-mentor-fylo-dark/static/media/icon-email.201ea9e2.svg",
+    "static/media/icon-location.a681f02d.svg": "/frontend-mentor-fylo-dark/static/media/icon-location.a681f02d.svg",
+    "static/media/icon-phone.43c05d1a.svg": "/frontend-mentor-fylo-dark/static/media/icon-phone.43c05d1a.svg",
+    "static/media/icon-security.b6a932b6.svg": "/frontend-mentor-fylo-dark/static/media/icon-security.b6a932b6.svg",
+    "static/media/illustration-intro.c20d8525.png": "/frontend-mentor-fylo-dark/static/media/illustration-intro.c20d8525.png",
+    "static/media/illustration-stay-productive.5d7a50ea.png": "/frontend-mentor-fylo-dark/static/media/illustration-stay-productive.5d7a50ea.png",
+    "static/media/instagram.68377d25.svg": "/frontend-mentor-fylo-dark/static/media/instagram.68377d25.svg",
+    "static/media/logo.f5363383.svg": "/frontend-mentor-fylo-dark/static/media/logo.f5363383.svg",
+    "static/media/twitter.b711184c.svg": "/frontend-mentor-fylo-dark/static/media/twitter.b711184c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f43e543.js",
+    "static/js/2.726212af.chunk.js",
+    "static/js/main.8816cc07.chunk.js"
+  ]
+}
