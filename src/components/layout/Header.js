@@ -19,6 +19,7 @@ const LogoImg = styled.img`
 
 const Options = styled.ul`
   display: flex;
+  list-style: none;
 `;
 
 const Option = styled.li`
