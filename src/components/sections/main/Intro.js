@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import IntroIllustration from "../../assets/illustration-intro.png";
+import IntroIllustration from "../../../assets/illustration-intro.png";
 
 const Section = styled.section`
   display: flex;
@@ -9,11 +9,11 @@ const Section = styled.section`
   background-color: hsl(218, 28%, 13%);
 `;
 
-const IntroImage = styled.img`
+const Image = styled.img`
   max-width: 450px;
 `;
 
-const IntroTitle = styled.h2`
+const Title = styled.h2`
   @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap");
 
   font-family: "Raleway", sans-serif;
@@ -25,7 +25,7 @@ const IntroTitle = styled.h2`
   padding: 30px;
 `;
 
-const IntroDescription = styled.p`
+const Description = styled.p`
   font-size: 19px;
   color: white;
   text-align: center;
@@ -33,7 +33,7 @@ const IntroDescription = styled.p`
   max-width: 400px;
 `;
 
-const IntroButton = styled.button`
+const Button = styled.button`
   padding: 20px 120px;
   border-radius: 50px;
   border: none;
@@ -47,19 +47,17 @@ const IntroButton = styled.button`
 export default function Intro() {
   return (
     <Section>
-      <IntroImage src={IntroIllustration} alt="Collaboration illustration" />
+      <Image src={IntroIllustration} alt="Collaboration illustration" />
 
-      <IntroTitle>
-        All your files in one secure location, accessible anywhere.
-      </IntroTitle>
+      <Title>All your files in one secure location, accessible anywhere.</Title>
 
-      <IntroDescription>
+      <Description>
         Fylo stores all your most important files in one secure location. Access
         them wherever you need, share and collaborate with friends, family and
         co-workers.
-      </IntroDescription>
+      </Description>
 
-      <IntroButton>Get Started</IntroButton>
+      <Button>Get Started</Button>
     </Section>
   );
 }

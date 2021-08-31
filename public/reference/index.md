@@ -1,74 +1,49 @@
+Stay productive, wherever you are
 
-  
+Never let location be an issue when accessing your files. Fylo has you covered for all of your file
+storage needs.
 
-  Get Started
+Securely share files and folders with friends, family and colleagues for live collaboration. No email
+attachments required.
 
-  Access your files, anywhere
+See how Fylo works
 
-  The ability to use a smartphone, tablet, or computer to access your account means your 
-  files follow you everywhere.
+Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has
+become a well-oiled collaboration machine.
 
-  Security you can trust
+Satish Patel
+Founder & CEO, Huddle
 
-  2-factor authentication and user-controlled encryption are just a couple of the security 
-  features we allow to help secure your files.
+Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has
+become a well-oiled collaboration machine.
 
-  Real-time collaboration
+Bruce McKenzie
+Founder & CEO, Huddle
 
-  Securely share files and folders with friends, family and colleagues for live collaboration. 
-  No email attachments required.
+Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has
+become a well-oiled collaboration machine.
 
-  Store any type of file
+Iva Boyd
+Founder & CEO, Huddle
 
-  Whether you're sharing holidays photos or work documents, Fylo has you covered allowing for all 
-  file types to be securely stored and shared.
+Get early access today
 
-  Stay productive, wherever you are
+It only takes a minute to sign up and our free starter tier is extremely generous. If you have any
+questions, our support team would be happy to help you.
 
-  Never let location be an issue when accessing your files. Fylo has you covered for all of your file 
-  storage needs.
+Get Started For Free
 
-  Securely share files and folders with friends, family and colleagues for live collaboration. No email 
-  attachments required.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+dolore magna aliqua
 
-  See how Fylo works
++1-543-123-4567
+example@fylo.com
 
-  Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has 
-  become a well-oiled collaboration machine.
+About Us
+Jobs
+Press
+Blog
 
-  Satish Patel
-  Founder & CEO, Huddle
-
-  Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has 
-  become a well-oiled collaboration machine.
-
-  Bruce McKenzie
-  Founder & CEO, Huddle
-
-  Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has 
-  become a well-oiled collaboration machine.
-
-  Iva Boyd
-  Founder & CEO, Huddle
-
-  Get early access today
-
-  It only takes a minute to sign up and our free starter tier is extremely generous. If you have any 
-  questions, our support team would be happy to help you.
-
-  Get Started For Free
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et 
-  dolore magna aliqua
-
-  +1-543-123-4567
-  example@fylo.com
-
-  About Us
-  Jobs
-  Press
-  Blog
-
-  Contact Us
-  Terms
-  Privacy
+Contact Us
+Terms
+Privacy
