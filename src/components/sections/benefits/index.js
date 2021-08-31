@@ -1,10 +1,10 @@
 import styled from "styled-components";
 import Benefit from "./Benefit";
 
-import AnywhereLogo from "../../../assets/icon-access-anywhere.svg";
-import SecurityLogo from "../../../assets/icon-security.svg";
-import CollaborationLogo from "../../../assets/icon-collaboration.svg";
-import AnyFileLogo from "../../../assets/icon-any-file.svg";
+import AnywhereLogo from "../../../assets/icons/icon-access-anywhere.svg";
+import SecurityLogo from "../../../assets/icons/icon-security.svg";
+import CollaborationLogo from "../../../assets/icons/icon-collaboration.svg";
+import AnyFileLogo from "../../../assets/icons/icon-any-file.svg";
 
 const Section = styled.section`
   display: flex;

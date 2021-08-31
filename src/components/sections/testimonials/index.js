@@ -1,9 +1,9 @@
 import styled from "styled-components";
 import Testimonial from "./Testimonial";
 
-import Profile1 from "../../../assets/profile-1.jpg";
-import Profile2 from "../../../assets/profile-2.jpg";
-import Profile3 from "../../../assets/profile-3.jpg";
+import Profile1 from "../../../assets/profiles/profile-1.jpg";
+import Profile2 from "../../../assets/profiles/profile-2.jpg";
+import Profile3 from "../../../assets/profiles/profile-3.jpg";
 
 const Section = styled.section`
   display: flex;

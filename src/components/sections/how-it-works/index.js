@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
-import ProductiveIllustration from "../../../assets/illustration-stay-productive.png";
-import ArrowIcon from "../../../assets/icon-arrow.svg";
+import ProductiveIllustration from "../../../assets/illustrations/illustration-stay-productive.png";
+import ArrowIcon from "../../../assets/icons/icon-arrow.svg";
 
 const Section = styled.section`
   display: flex;

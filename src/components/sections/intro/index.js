@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import IntroIllustration from "../../../assets/illustration-intro.png";
+import IntroIllustration from "../../../assets/illustrations/illustration-intro.png";
 
 const Section = styled.section`
   display: flex;

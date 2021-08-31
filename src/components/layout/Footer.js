@@ -1,9 +1,9 @@
 import styled from "styled-components";
 
 import Logo from "../../assets/logo.svg";
-import LocationIcon from "../../assets/icon-location.svg";
-import PhoneIcon from "../../assets/icon-phone.svg";
-import EmailIcon from "../../assets/icon-email.svg";
+import LocationIcon from "../../assets/icons/icon-location.svg";
+import PhoneIcon from "../../assets/icons/icon-phone.svg";
+import EmailIcon from "../../assets/icons/icon-email.svg";
 import FacebookLogo from "../../assets/social-media/facebook.svg";
 import InstagramLogo from "../../assets/social-media/instagram.svg";
 import TwitterLogo from "../../assets/social-media/twitter.svg";
