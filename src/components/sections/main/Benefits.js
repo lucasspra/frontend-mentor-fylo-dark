@@ -11,7 +11,6 @@ const Section = styled.section`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: hsl(218, 28%, 13%);
 `;
 
 export default function Intro() {
