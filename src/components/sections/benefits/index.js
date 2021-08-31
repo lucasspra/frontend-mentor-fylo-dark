@@ -13,7 +13,7 @@ const Section = styled.section`
   align-items: center;
 `;
 
-export default function Intro() {
+export default function Benefits() {
   return (
     <Section>
       <Benefit
